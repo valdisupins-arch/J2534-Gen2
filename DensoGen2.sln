@@ -1,0 +1,15 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DensoGen2", "DensoGen2.csproj", "{B1C2D3E4-5F60-4711-8A22-0D2500E2A002}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1C2D3E4-5F60-4711-8A22-0D2500E2A002}.Debug|x86.ActiveCfg = Debug|x86
+		{B1C2D3E4-5F60-4711-8A22-0D2500E2A002}.Debug|x86.Build.0 = Debug|x86
+		{B1C2D3E4-5F60-4711-8A22-0D2500E2A002}.Release|x86.ActiveCfg = Release|x86
+		{B1C2D3E4-5F60-4711-8A22-0D2500E2A002}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
